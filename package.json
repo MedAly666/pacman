@@ -1,0 +1,16 @@
+{
+  "name": "pacman",
+  "version": "1.0.0",
+  "description": "pacman in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "keywords": [
+    "pacman",
+    "game",
+    "js"
+  ],
+  "author": "MedAly",
+  "license": "ISC"
+}
